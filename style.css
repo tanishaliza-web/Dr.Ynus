@@ -1,0 +1,852 @@
+
+
+li{
+    list-style: none;
+    padding:10px ;
+}
+a{
+    text-decoration:none ;
+    color:black;
+    font-size:15px;      
+        
+}
+.red_are{
+    display: flex;
+    margin-left: 10px;
+}
+.logo{
+    height: 90px;
+    width: 110px;
+    position: relative;
+    padding-left:40px ;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgba(202, 65, 109, 0.814);
+    position: relative;
+    height:80px ;
+    width:100% ;
+    color: rgb(9, 0, 0);
+    align-items: center;
+
+}
+
+.red img{
+    width: 85px; 
+    height: 85px;
+    border-radius:50% ;
+ }
+
+.red{
+    background:url(./image/Muhammad_yunus_at_weforum.jpg)no-repeat ;
+    background-size: cover;
+    width:100% ;
+    height:1000px ;
+}
+.box{
+    display: flex;
+}
+.home{
+    position:relative;
+}
+
+.home-dd{
+    position: absolute;
+    height:300px;
+    width:200px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none;
+}
+.home:hover .home-dd{
+    display:block; 
+}
+
+.ROOMS{
+    position: relative;
+}
+.ROOMS_dd{
+    position: absolute;
+    height:300px;
+    width:200px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none ;
+}
+.ROOMS:hover .ROOMS_dd{
+    display:block;
+}
+.EVENT{
+    position: relative;
+}
+.EVENT_dd{
+    position: absolute;
+    height:200px;
+    width:100px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none ;
+}
+.EVENT:hover .EVENT_dd{
+    display: block;
+}
+.PAGE{
+    position: relative;
+}
+.PAGE_dd{
+    position: absolute;
+    height:300px;
+    width:200px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none ;
+}
+.PAGE:hover .PAGE_dd{
+    display: block;
+}
+.BOOKING{
+    position: relative;
+}
+.BOOKING_dd{
+    position: absolute;
+    height:300px;
+    width:200px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none ;
+}
+.BOOKING:hover .BOOKING_dd{
+    display: block;
+}
+.BLOG{
+    position: relative;
+}
+.BLOG_dd{
+    position: absolute;
+    height:300px;
+    width:200px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none ;
+}
+.BLOG:hover .BLOG_dd{
+    display: block;
+}
+.SHOP{
+    position: relative;
+}
+.SHOP_dd{
+    position: absolute;
+    height:300px;
+    width:200px; 
+    font-size:15px ;
+    top:15px;
+    background-color: rgb(108, 111, 111);
+    display:none ;
+}
+.SHOP:hover .SHOP_dd{
+    display: block;
+}
+
+li:hover a{
+    color:rgb(73, 206, 224) ;
+}
+.top-ber{
+    display: flex;
+    justify-content: space-between;
+    padding:20px ;
+    background-color: rgb(226, 235, 243);
+    color: blueviolet;
+}
+.info{
+    display: flex;
+    gap:20px;
+    font-size:20px ;
+}
+
+.heroarea img{
+    height:450px;
+    width: 450px;
+    padding-left:500px ;
+    position: relative;
+}
+
+.heroarea h1{
+    font-size:70px ;
+    text-align: center;
+    flex-direction: column;
+    color: rgba(227, 22, 104, 0.826);
+    justify-content: center;
+    
+}
+.outlay-background h1 {
+    background: rgba(0, 0, 0, 0.381);
+    width:100% ;
+    height:1000px ;
+}
+.heroarea p{
+    font-size:40px ;
+    text-align: center;
+    color:white;
+}
+
+.History{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    color: black;
+    
+
+    
+}
+.History h3{
+    color: black;
+    
+}
+.History h1{
+    font-size: 50px;
+    width: 600px;
+    padding: left 20px;
+    margin: 0 auto;
+    font-family: "Playwrite DE Grund", cursive;
+}
+.History h2{
+    font-size: 20px;
+    border-width: 2px;
+    padding:10px;
+    font-family: "Playwrite DE Grund", cursive;
+    
+}
+.history_detials{
+    justify-content: center;
+    align-items: center;
+    color:black;
+    margin-left:5px ;
+    
+}
+.history_detials{
+    display: flex;
+}
+
+ h3{
+    font-size:30px;
+    width:200px ;
+    padding:10px ;
+    margin-right:8px ;
+    margin: 0 auto;
+    
+}
+.history_detials_3 p{
+    text-align: justify;
+    width:289px ;
+    padding-right: 20px;
+    font-family: "Playwrite DE Grund", cursive;
+}
+.border{
+    width: 200px;
+    border-color: chocolate;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-top:5px ;
+    margin-bottom:10px ;
+    margin-left: 50px;
+    
+}
+.hyjyjkrk7{
+
+    display: flex;
+    justify-content: space-between;
+} 
+
+.ritual_photo{
+    padding-top: 30px;
+    position: relative;
+    min-height: 1px;
+    padding-right:100px;
+    margin-left: 30px;
+    
+}
+
+.img1{
+    height: 130px;
+    width: 255px;
+    
+}
+.img2{
+height: 130px;
+width: 250px;
+
+
+} 
+.img3{
+height: 130px;
+width: 250px;
+
+} 
+
+
+.photo div img{
+    margin:0 auto ;
+    width:600px ;
+    margin-top:40px ;
+}
+
+.your-class div img{
+    margin: 0 auto;
+    height: 400px;
+    margin-top: 40px;
+    width: 600px;
+    position: relative;
+    height:500px ;
+    width: 900px;
+    margin: 0 auto;
+    
+}
+.overlay{
+    color: rgba(0, 0, 0, 0.249);
+    height: 600px;
+    width: 100%;
+    
+}
+.slick-dots li button::before {
+    font-family: slick;
+    font-size: 10px;
+    line-height: 20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 25px;
+    height: 25px;
+    content: "•";
+    text-align: center;
+    opacity: 0.25;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+}
+
+.slick-dots li.slick-active button::before {
+    opacity: 1;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+/* arraw */
+.slick-prev::before,
+.slick-next::before {
+    color: rgba(3, 3, 3, 0.897);
+    font-size: 2.5rem;
+}
+
+.slick-prev,
+.slick-next {
+    width: 2.5rem;
+    height: 2.5rem;
+    z-index: 2;
+}
+
+.slick-list {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.slick-prev {
+    left: -20px;
+}
+
+.slick-next {
+    right:-20px;
+}
+
+.slider_section{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+    
+}
+.slider_titel{
+    align-items: center;
+    justify-content: center;
+}
+
+.slider_titel h4{
+    font-size:50px ;
+    text-align: center;
+    flex-direction: column;
+   
+
+}
+.slider_titel p{
+    font-size:30px ;
+    text-align: center;
+    flex-direction: column;
+}
+
+
+.your-class{
+    margin-left: 300px;
+    gap:20px;
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+.your-class img{
+    height:200px;
+    width: 2000px;
+    position: relative;
+}
+.your-class p{
+    font-size: 20px;
+    text-align: center;
+}
+.Bank-story{
+    display: flex;
+    gap: 20px;
+    margin-left: 30px;
+    height:300px ;
+    width: 550px;
+    flex-direction: column;
+    margin:0 auto; 
+    color: rgb(3, 3, 96); 
+
+}
+.Bank-story h1{
+    font-size:30px ;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    color: blue;
+}
+.special_btn{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.one-btn {
+background-color: rgb(162, 236, 243);
+border-radius: 0%;
+padding-left:20px;
+padding:15px;
+margin: 0 auto;
+margin-left:32%;
+width: 200px;
+
+}
+.one-btn:hover{
+background-color: blue;
+}
+
+/* reservation form  */
+.booking{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-top: 250px;
+    
+
+}
+.booking h5{
+    font-size:50px;
+    padding-top:400px;
+    
+
+}
+.booking p{
+    font-size: 20px;
+    padding-top:20px;
+    
+    
+}
+
+
+.fa-pencil-square-o{
+    margin-left: -20px;
+    margin-top: 25px;
+    
+}
+.fa-envelope{
+    margin-left: -20px;
+    margin-top: 25px;
+
+
+}
+.input_icon{
+    display: flex;
+   
+}
+.form_wrapper{
+    align-items: center;
+    display: flex;
+    flex-direction: column;  
+    font-family: "Playwrite DE Grund", cursive;
+    
+}
+.booking_form{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+margin-left:-20px ;
+}
+.fa-phone{
+ margin-left: -20px;
+ margin-top: 25px;
+}
+
+.fa-calendar{
+    margin-left: -20px;
+    margin-top: 25px;
+}
+.fa-clock-o{
+    margin-left: -20px;
+    margin-top: 25px;
+}
+.fa-user{
+    margin-left: -20px;
+    margin-top: 25px;
+}
+
+.form_wrapper{
+    align-items: center;
+    display: flex;
+    flex-direction: column;  
+}
+.booking_form{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+margin-left:-20px ;
+}
+.box{
+    width: 80%;
+    padding: 30px;
+    height: 3px;
+    border: none;
+    background: #f1f1f1;
+
+}
+
+    .btn_reserv:hover{
+    background-color:  blue;
+    }
+.form_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(41, 2, 63);
+    padding-bottom: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+    /* features  */
+    .features_heading{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        margin: 5px;
+        font-size: 40px;
+        color: rgb(18, 1, 1);
+        align-items: center;
+        padding-top: 40px;
+        
+    }
+    .main_features{
+    
+        background-color:pink;
+        border: 3px solid rgb(104, 223, 250);
+        height: 450px;
+        overflow: hidden;
+        width: 300px;
+    }
+.features_title{
+    padding-left: 15px;
+}
+.main_features h1{
+    font-size: 30px;
+}
+.main_features p{
+    font-size: 15px;
+    width:250px;
+}
+    .main_features:hover .f_img{
+        transform: scale(1.2);
+        
+    }
+    .features{
+        background-image: url(./img/BGHPIC.jpg);
+        background-size: cover;
+        height: 800px;
+        background-attachment: fixed;
+    
+    
+    }
+    .features_wrapper{
+        display: flex;
+        height: 200px;
+        width: 1200px;
+        gap: 20px;
+        padding-left: 150px;
+    }
+    .f_img{
+        height: 200px;
+        width: 300px;
+        
+    }
+    .f_hr {
+        width:100px;
+        border-color: rgba(203, 25, 120, 0.784);
+        margin: 10px;
+    }
+
+
+    /* menucar started  */
+    .menu_heading{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px;
+        font-size: 50px;
+        margin-top:50px;
+        font-family: "Playwrite DE Grund", cursive;
+    }
+    .menucard p{
+        font-size: 25px;
+        color: rgba(0, 0, 0, 0.521);
+        
+    }
+
+.video{
+     height:1080px;
+     width:1620 px;
+     margin: 0 auto;
+}
+
+    
+   
+.fast_card_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 100px;
+    font-size: 20PX;
+    padding-bottom: 20px;
+    color: #8d0606;
+    margin: 0auto;
+    font-family: "Playwrite DE Grund", cursive;
+}
+.fast_card_footer p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+
+.sub_btn{
+background-color: rgb(240, 47, 12);
+border-radius: 0%;
+width: 45px;
+height: 50px;
+
+}
+button:hover{
+    color: #000;
+}
+/* end */
+
+.footer{
+    background-image: url(./image/art\ ynus.webp);
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    margin-top: 40px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    
+}
+
+.footer-blog-text{
+display: flex;
+    color:black;
+}
+.footer_text{
+    font-size: 15px;
+    width: 400px;
+    color:black;
+    padding-top: 60px;
+    
+
+
+}
+.footer h1{
+    color: #f34c04;
+}
+.footer p{
+    font-size:20px ;
+    font-weight: 200;
+}
+.footer-blog-img{
+    display: flex;
+    flex-direction: column;
+}
+.f-img{
+    display: flex;
+    gap: 5px;
+    padding: 10PX;
+
+}
+.footer_location{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.icon{
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+.icon .fa-phone{
+    padding-left: 50px;
+    
+}
+.icon .fa-envelope{
+    padding-left: 50px;
+}
+        
+.fa-bars .main{
+    display: none;
+}
+.war_section{
+    height:700 px;
+    width:700 px;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    font-family: "Playwrite DE Grund", cursive;
+}
+.war_title h1{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 50px;
+}
+.gallery {
+    justify-content: center;
+    --size: 100px;
+    display: grid;
+    grid-template-columns: repeat(6, var(--size));
+    grid-auto-rows: var(--size);
+    margin-bottom: var(--size);
+    place-items: start center;
+    gap: 5px;
+    
+    &:has(:hover) img:not(:hover),
+    &:has(:focus) img:not(:focus){
+      filter: brightness(0.5) contrast(0.5);
+    }
+  
+    & img {
+      object-fit: cover;
+      width: calc(var(--size) * 2);
+      height: calc(var(--size) * 2);
+      clip-path: path("M90,10 C100,0 100,0 110,10 190,90 190,90 190,90 200,100 200,100 190,110 190,110 110,190 110,190 100,200 100,200 90,190 90,190 10,110 10,110 0,100 0,100 10,90Z");
+      transition: clip-path 0.25s, filter 0.75s;
+      grid-column: auto / span 2;
+      border-radius: 5px;
+  
+      &:nth-child(5n - 1) { 
+        grid-column: 2 / span 2 
+      }
+  
+      &:hover,
+      &:focus {
+        clip-path: path("M0,0 C0,0 200,0 200,0 200,0 200,100 200,100 200,100 200,200 200,200 200,200 100,200 100,200 100,200 100,200 0,200 0,200 0,100 0,100 0,100 0,100 0,100Z");
+        z-index: 1;
+        transition: clip-path 0.25s, filter 0.25s;
+      }
+      
+      &:focus {
+        outline: 1px dashed black;
+        outline-offset: -5px;
+      }
+    }
+  }
+    
+
+/* FOR MOBILE   */
+.mobile_menu{
+    width: 300px;
+    height: 100vh;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+    color: black;
+}
+.mobile_menu li{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+@media only screen and (max-width: 600px){
+    body {width: 600px;
+    
+    }
+    .main{
+        display: none;
+    }
+
+
+
+}
+
+    .fa-bars{
+        display: inline;
+        color: #f1f1f1;
+        margin-right: 20px;
+        font-size: 40px;
+    }
+    .fa-bars:hover .mobile_menu{
+        display: block;
+    }
+
+
+    @media only screen and (max-width: 768px){
+        body {width: 768px;
+        
+        }
+    
+    
+        .main{
+            display: none;
+        }
+        
+    
+    
+    }     
+        
+    
+    
+    
